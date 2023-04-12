@@ -4,8 +4,8 @@ on:
     branches:
       - main
     paths:
-      - ''
-      - ''
+      - 'StoriEventTokens.java'
+      - 'StoriEventTrackFile.h'
 
 jobs:
   hawk:
